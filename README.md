@@ -18,12 +18,6 @@ The project focuses on finding the cost of a rocket launch. Through various data
 ## Data Sources
 The project utilizes data from API and CSV files.
 
-## Project Structure
-- `data/`: Directory containing the project's data files.
-- `notebooks/`: Jupyter Notebooks for data exploration, analysis, and modeling.
-- `scripts/`: Any additional scripts or utilities used in the project.
-- `results/`: Directory for storing the project's results, such as visualizations or model outputs.
-
 ## Getting Started
 To run the project locally, follow these steps:
 1. Clone the repository: `git clone https://github.com/metehanbati/IBM_Final_Project.git`
